@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MADHURA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MADHURA\\.nuget\\packages"
+    ]
+  }
+}
